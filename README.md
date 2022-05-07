@@ -1,6 +1,6 @@
 # googlehomepage
 
-Bu çalışma patika.dev Başlangıç Seviye Frontend Web Development Patikası CSS ödev 3 kapsamında hazılanmıştır. 
+Bu çalışma www.patika.dev  Başlangıç Seviye Frontend Web Development Patikası CSS ödev 3 kapsamında hazılanmıştır. 
 
 
 Ödev 3
